@@ -3,7 +3,6 @@
 **Analista de QA Júnior | Testes de Software | Quality Assurance**
 
 📍 Brasília – DF  
-📱 +55 61 98655-4888  
 📧 [guilhermevivaz1@gmail.com](mailto:guilhermevivaz1@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/guilhermepontessilva/) | [GitHub](https://github.com/guilhermepontes01)
 
