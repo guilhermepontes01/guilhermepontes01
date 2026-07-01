@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Guilherme Pontes
 
-**Analista de QA Júnior | Testes de Software | Quality Assurance**
+**Analista de QA | Testes de Software | Quality Assurance**
 
 📍 Brasília – DF  
 📧 [guilhermevivaz1@gmail.com](mailto:guilhermevivaz1@gmail.com)
